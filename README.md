@@ -11,4 +11,4 @@ $ python3 giftcreator.py
 
 Depois, basta seguir o menu intuitivo e ser feliz :)
 
-Obs: Essa ferramenta pode sim criar um gift real, porém, as chances são baixas (ferramenta criada para estudo e prática)
+Obs: Essa ferramenta pode sim acertar a key de um gift real, porém, as chances são MUITO baixas (ferramenta criada no tédio)
